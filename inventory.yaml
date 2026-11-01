@@ -1,9 +1,9 @@
 [all:children]
 aws
-azure
+# azure
 
 [aws]
-35.172.200.80
+54.87.4.105
 
 [aws:vars]
 ansible_ssh_user=ubuntu
